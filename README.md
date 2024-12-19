@@ -76,4 +76,4 @@ Follow instructions.  You are not allowed to insert other methods except what is
 
 **UML Diagram**
 
-![alt text](image.png)
+![UML Diagram](UML.png)
